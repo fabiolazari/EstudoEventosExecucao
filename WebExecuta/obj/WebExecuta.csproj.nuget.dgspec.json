@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Fabio\\source\\repos\\0_Estudo\\EstudoEventosExecucao\\WebExecuta\\WebExecuta.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Fabio\\source\\repos\\0_Estudo\\EstudoEventosExecucao\\Biblioteca\\Biblioteca.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Fabio\\source\\repos\\0_Estudo\\EstudoEventosExecucao\\Biblioteca\\Biblioteca.csproj",
+        "projectName": "Biblioteca",
+        "projectPath": "C:\\Users\\Fabio\\source\\repos\\0_Estudo\\EstudoEventosExecucao\\Biblioteca\\Biblioteca.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Fabio\\source\\repos\\0_Estudo\\EstudoEventosExecucao\\WebExecuta\\WebExecuta.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Fabio\\source\\repos\\0_Estudo\\EstudoEventosExecucao\\WebExecuta\\WebExecuta.csproj",
+        "projectName": "WebExecuta",
+        "projectPath": "C:\\Users\\Fabio\\source\\repos\\0_Estudo\\EstudoEventosExecucao\\WebExecuta\\WebExecuta.csproj",
+        "packagesPath": "C:\\Users\\Fabio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Fabio\\source\\repos\\0_Estudo\\EstudoEventosExecucao\\WebExecuta\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Fabio\\source\\repos\\0_Estudo\\EstudoEventosExecucao\\Biblioteca\\Biblioteca.csproj": {
+                "projectPath": "C:\\Users\\Fabio\\source\\repos\\0_Estudo\\EstudoEventosExecucao\\Biblioteca\\Biblioteca.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

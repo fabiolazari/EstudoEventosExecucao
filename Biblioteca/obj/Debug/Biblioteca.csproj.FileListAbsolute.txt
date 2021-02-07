@@ -1,0 +1,6 @@
+C:\Users\Fabio\source\repos\0_Estudo\EstudoEventosExecucao\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\Fabio\source\repos\0_Estudo\EstudoEventosExecucao\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Fabio\source\repos\0_Estudo\EstudoEventosExecucao\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\Fabio\source\repos\0_Estudo\EstudoEventosExecucao\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\source\repos\0_Estudo\EstudoEventosExecucao\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Fabio\source\repos\0_Estudo\EstudoEventosExecucao\Biblioteca\obj\Debug\Biblioteca.pdb

@@ -1,0 +1,13 @@
+C:\Users\Fabio\source\repos\0_Estudo\EstudoEventosExecucao\TelaExecuta\bin\Debug\TelaExecuta.exe.config
+C:\Users\Fabio\source\repos\0_Estudo\EstudoEventosExecucao\TelaExecuta\bin\Debug\TelaExecuta.exe
+C:\Users\Fabio\source\repos\0_Estudo\EstudoEventosExecucao\TelaExecuta\bin\Debug\TelaExecuta.pdb
+C:\Users\Fabio\source\repos\0_Estudo\EstudoEventosExecucao\TelaExecuta\bin\Debug\Biblioteca.dll
+C:\Users\Fabio\source\repos\0_Estudo\EstudoEventosExecucao\TelaExecuta\bin\Debug\Biblioteca.pdb
+C:\Users\Fabio\source\repos\0_Estudo\EstudoEventosExecucao\TelaExecuta\obj\Debug\TelaExecuta.csprojAssemblyReference.cache
+C:\Users\Fabio\source\repos\0_Estudo\EstudoEventosExecucao\TelaExecuta\obj\Debug\TelaExecuta.Form1.resources
+C:\Users\Fabio\source\repos\0_Estudo\EstudoEventosExecucao\TelaExecuta\obj\Debug\TelaExecuta.Properties.Resources.resources
+C:\Users\Fabio\source\repos\0_Estudo\EstudoEventosExecucao\TelaExecuta\obj\Debug\TelaExecuta.csproj.GenerateResource.cache
+C:\Users\Fabio\source\repos\0_Estudo\EstudoEventosExecucao\TelaExecuta\obj\Debug\TelaExecuta.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\source\repos\0_Estudo\EstudoEventosExecucao\TelaExecuta\obj\Debug\TelaExecuta.csproj.CopyComplete
+C:\Users\Fabio\source\repos\0_Estudo\EstudoEventosExecucao\TelaExecuta\obj\Debug\TelaExecuta.exe
+C:\Users\Fabio\source\repos\0_Estudo\EstudoEventosExecucao\TelaExecuta\obj\Debug\TelaExecuta.pdb
